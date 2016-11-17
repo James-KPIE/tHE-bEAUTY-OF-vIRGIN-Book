@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.KpieTech.TheBeautyOfVirginity" version="1.0.0">
   <name>THE BEAUTY OF VIRGINITY</name>
   <description>The Beauty of Virginity: A book is is digitalized into an interactive game mobile app..</description>
-  <author href="http://phonegap.com" email="fxroyalmoneysolution@gmail.com">IDOWU JAMES</author>
+  <author href="http://kpie.com" email="fxroyalmoneysolution@gmail.com">IDOWU JAMES</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
@@ -31,22 +31,22 @@
   <platform name="android">
 	<icon src="icon.png"/>
    
-	<splash src="splash.png"/>
+	<splash src="splash.jpg"/>
   </platform>
   <platform name="ios">
 	<icon src="icon.png"/>
    
-    <splash src="splash.png"/>
+    <splash src="splash.jpg"/>
   </platform>
   <platform name="wp8">
     <icon src="icon.png"/>
    
-    <splash src="splash.png"/>
+    <splash src="splash.jpg"/>
   </platform>
   <platform name="windows">
     <icon src="icon.png"/>
    
-    <splash src="splash.png"/>
+    <splash src="splash.jpg"/>
   </platform>
   <access origin="*"/>
   <allow-intent href="http://*/*"/>
