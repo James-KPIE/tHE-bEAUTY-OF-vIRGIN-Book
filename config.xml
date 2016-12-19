@@ -31,22 +31,22 @@
   <platform name="android">
 	<icon src="icon.png"/>
    
-	<splash src="splash.jpg"/>
+	<splash src="splash.png"/>
   </platform>
   <platform name="ios">
 	<icon src="icon.png"/>
    
-    <splash src="splash.jpg"/>
+    <splash src="splash.png"/>
   </platform>
   <platform name="wp8">
     <icon src="icon.png"/>
    
-    <splash src="splash.jpg"/>
+    <splash src="splash.png"/>
   </platform>
   <platform name="windows">
     <icon src="icon.png"/>
    
-    <splash src="splash.jpg"/>
+    <splash src="splash.png"/>
   </platform>
   <access origin="*"/>
   <allow-intent href="http://*/*"/>
